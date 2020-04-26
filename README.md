@@ -4,7 +4,7 @@ API used https://api.covid19api.com/
 
 # How to run 🏃
 ```sh
-cd EKontaktiApp
+cd UnusTerra
 npm install
 ```
 ## iOS
