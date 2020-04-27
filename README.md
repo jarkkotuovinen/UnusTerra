@@ -2,6 +2,8 @@
 
 UNUS TERRA
 
+<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/074/004/datas/gallery.jpg" />
+
 People, especially the younger ones, are already forgetting about social distancing practices. They’re gathering in groups, and unknowingly might be infecting other people with the virus.
 
 We see an engaging gamified mobile application as a solution to not only inform the users about the ongoing situation but also encourage them to keep practicing social distancing during this dire global situation.
